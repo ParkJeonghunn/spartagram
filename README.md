@@ -99,7 +99,6 @@
 
 ## Spartagram API 설계하기
 
-## 와이어프레임
 ### 워크플로우 차트
 ![](https://images.velog.io/images/gkrwkd95/post/69fa6334-f302-4f69-b7fa-377146504b56/spartagram_wireframe.png)
 
