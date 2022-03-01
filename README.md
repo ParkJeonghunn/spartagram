@@ -104,5 +104,3 @@
 
 ### 전체 와이어프레임
 ![](https://media.vlpt.us/images/gkrwkd95/post/89a54629-663a-477e-8539-379197e256e0/%EC%99%80%EC%9D%B4%EC%96%B4%ED%94%84%EB%A0%88%EC%9E%84.png)
-
-
